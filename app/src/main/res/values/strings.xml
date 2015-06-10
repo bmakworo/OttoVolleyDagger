@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OttoVolleyDagger</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="generator_off">Generator is off.</string>
+    <string name="service_msg">Generated number is:</string>
+</resources>
