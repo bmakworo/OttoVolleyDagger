@@ -90,17 +90,4 @@ public class MainActivity extends ActionBarActivity {
             internetConnectivityManager.makeRequest("http://api.openweathermap.org/data/2.5/weather?q=London,uk", REQUEST_TAG);
         }
     }
-
-//
-//    public void onStopClicked(View view) {
-//        if (view.getId() == R.id.stop_button) {
-//            Log.d(TAG, "Stop Service Button clicked");
-//            stopGenerating();
-//        }
-//    }
-
-//    public void updateResults(String results) {
-//        getResultsTextView().setText(results);
-//    }
-
 }
